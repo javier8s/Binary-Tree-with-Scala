@@ -1,15 +1,14 @@
 Binarytree: Binary-Tree-with-Scala
 ----------------------------------------------------
 
+.. image:: https://user-images.githubusercontent.com/2701938/34109703-4a8810aa-e3b9-11e7-8138-68eec47cfddb.gif
+    :alt: Demo GIF
+
+
 Introduction
 ============
 
-Are you studying binary trees for your next exam, assignment or technical interview?
-
-**Binarytree** is a Python library which provides a simple API to generate,
-visualize, inspect and manipulate binary trees. It allows you to skip the
-tedious work of setting up test data, and dive straight into practising your
-algorithms. Heaps and BSTs (binary search trees) are also supported.
+You would see here an example of a Binary Tree made in Scala with functional programming.
 
 Requirements
 ============
