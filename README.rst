@@ -27,6 +27,7 @@ By default, **binarytree** uses the following class to represent a node:
     case object Vacio extends Arbol[Nothing]
 
 Use the following object to set up the main structure of the tree:
+
 .. code-block:: python
     
     object Arbol
@@ -35,5 +36,6 @@ Use the following object to set up the main structure of the tree:
 Use the following trait to set up all the methods you want for the tree:
 
 .. code-block:: python
+
     sealed trait Arbol[+A]
 
